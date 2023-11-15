@@ -14,4 +14,4 @@ The dataset is available here.
 
 ## 3. Overview Video
 
-![thumb](./assets/video/openPilot.mp4)
+<video width="1600" height="900" controls>     <source src="./assets/video/openPilot.mp4" type="video/mp4"> </video>
