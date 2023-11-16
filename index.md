@@ -36,53 +36,53 @@ For the first time, we study the potential threats caused by environmental illus
 <table border="0" style="max-width:100%; border-collapse: collapse; text-align:center;">
     <col align="center" width="50%">
     <col align="center"  width="50%">
-    <tr style="text-align:center;">
-        <th style="text-align:center;">Origin</th>
-        <th style="text-align:center;">Perturbed</th>
+    <tr>
+        <th style="text-align:center; border: none">Origin</th>
+        <th style="text-align:center; border: none">Perturbed</th>
     </tr>
     <tr>
-        <td>
+        <td style="border: none">
             <video controls autoplay loop muted width="100%">
                 <source src="./assets/mp4s/Shadow/Rails/StraightAhead_Aside03_1_origin.mp4" type="video/mp4"> 
             </video>
         </td>
-        <td>
+        <td style="border: none">
             <video controls autoplay loop muted width="100%">
                 <source src="./assets/mp4s/Shadow/Rails/StraightAhead_Aside03_1_alt38azm280.mp4" type="video/mp4">
             </video> 
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="border: none">
             <video controls autoplay loop muted width="100%">
                 <source src="./assets/mp4s/Shadow/Rails/Uphill_Aside05_1_origin.mp4" type="video/mp4"> 
             </video>
         </td>
-        <td>
+        <td style="border: none">
             <video controls autoplay loop muted width="100%">
                 <source src="./assets/mp4s/Shadow/Rails/Uphill_Aside05_1_alt30azm90.mp4" type="video/mp4"> 
             </video>
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="border: none">
             <video controls autoplay loop muted width="100%">
                 <source src="./assets/mp4s/Shadow/Fence/StraightAhead_Grid03_1_origin.mp4" type="video/mp4"> 
             </video>
         </td>
-        <td>
+        <td style="border: none">
             <video controls autoplay loop muted width="100%">
                 <source src="./assets/mp4s/Shadow/Fence/StraightAhead_Grid03_1_alt9azm350.mp4" type="video/mp4"> 
             </video>
         </td>
     </tr>
     <tr>
-        <td>
+        <td style="border: none">
             <video controls autoplay loop muted width="100%">
                 <source src="./assets/mp4s/Reflection/SunLight/Bend_t06_1_origin.mp4" type="video/mp4"> 
             </video>
         </td>
-        <td>
+        <td style="border: none">
             <video controls autoplay loop muted width="100%">
                 <source src="./assets/mp4s/Reflection/SunLight/Bend_t06_1_pd70alt10.mp4"> 
             </video>
