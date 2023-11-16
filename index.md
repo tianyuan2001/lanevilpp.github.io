@@ -32,8 +32,10 @@ For the first time, we study the potential threats caused by environmental illus
 ![](/assets/img/Reflection.png)
 
 ## Challenges
-
-<table >
+<div>
+<table border="0" width="100%">
+    <col width="50%">
+    <col width="50%">
     <tr>
         <th>Origin</th>
         <th>Perturbed</th>
@@ -55,3 +57,4 @@ For the first time, we study the potential threats caused by environmental illus
         <td>row 2, cell 2</td>
     </tr>
 </table>
+</div>
