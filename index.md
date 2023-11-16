@@ -12,7 +12,7 @@ For the first time, we study the potential threats caused by environmental illus
 
 ## Dataset Examples
 
-
+![](/assets/img/RoadDamage.png)
 
 ## Challenges
 
