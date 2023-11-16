@@ -53,8 +53,40 @@ For the first time, we study the potential threats caused by environmental illus
         </td>
     </tr>
     <tr>
-        <td>row 2, cell 1</td>
-        <td>row 2, cell 2</td>
+        <td>
+            <video controls autoplay loop muted width="100%">
+                <source src="./assets/mp4s/Shadow/Rails/Uphill_Aside05_1_origin.mp4" type="video/mp4"> 
+            </video>
+        </td>
+        <td>
+            <video controls autoplay loop muted width="100%">
+                <source src="./assets/mp4s/Shadow/Rails/Uphill_Aside05_1_alt30azm90.mp4" type="video/mp4"> 
+            </video>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <video controls autoplay loop muted width="100%">
+                <source src="./assets/mp4s/Shadow/Fence/StraightAhead_Grid03_1_origin.mp4" type="video/mp4"> 
+            </video>
+        </td>
+        <td>
+            <video controls autoplay loop muted width="100%">
+                <source src="./assets/mp4s/Shadow/Fence/StraightAhead_Grid03_1_alt9azm350.mp4" type="video/mp4"> 
+            </video>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <video controls autoplay loop muted width="100%">
+                <source src="./assets/mp4s/Reflection/SunLight/Bend_t06_1_origin.mp4" type="video/mp4"> 
+            </video>
+        </td>
+        <td>
+            <video controls autoplay loop muted width="100%">
+                <source src="./assets/mp4s/Reflection/SunLight/Bend_t06_1_pd70alt10.mp4"> 
+            </video>
+        </td>
     </tr>
 </table>
 </div>
