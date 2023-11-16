@@ -31,26 +31,6 @@ Our *LanEvil* dataset contains two subsets, i.e., a training set with normal ima
 </div>
 
 <br/>
-<br/>
-
-<!-- html div盒子 -->
-<!--
-<div style="column-count: 2">
-  <div align=left>
-    <img src="/assets/img/histogram_fig.png" width=400 heihgt=400>
-    <div class=caption>
-      The number of original and perturbed cases under four categories.
-    </div>
-  </div>
-<br/>
-  <div align=left>
-    <img src="/assets/img/circle2-1.png" width=400 heihgt=400>
-    <div class=caption>
-      The case distribution of four illusion categories.
-    </div>
-  </div>
-</div>
--->
 
 <div>
 <table border="0" style="max-width:100%; border-collapse: collapse; text-align:center; border: none">
