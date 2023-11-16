@@ -14,6 +14,10 @@ For the first time, we study the potential threats caused by environmental illus
 
 ![](/assets/img/RoadDamage.png)
 
+---
+
+![](/assets/img/TrafficObstruction.png)
+
 ## Challenges
 
 <video width="800" height="450" controls autoplay loop muted>     <source src="./assets/video/openPilot.mp4" type="video/mp4"> </video>
