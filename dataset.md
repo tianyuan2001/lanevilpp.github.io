@@ -27,14 +27,14 @@ Our *LanEvil* dataset contains two subsets, i.e., a training set with normal ima
 <table border="0" style="max-width:100%; border-collapse: collapse; text-align:center; border: none">
     <col align="center" width="50%" style="border: none">
     <col align="center"  width="50%" style="border: none">
-    <tr style="border: none">
+    <tr style="border: none; background: none">
         <th style="text-align:center; border: none">
         The number of original and perturbed cases.</th>
         <th style="text-align:center; border: none">
         The case distribution of four illusion categories.
         </th>
     </tr>
-    <tr style="border: none">
+    <tr style="border: none; background: none">
         <td style="border: none">
             <img src="/assets/img/histogram_fig.png" width="100%"/>
         </td>
