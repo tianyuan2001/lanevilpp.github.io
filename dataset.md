@@ -11,7 +11,7 @@ Our *LanEvil* dataset contains two subsets, i.e., a training set with normal ima
 ### *LanEvil* training set
 <div style="column-count: 2">
   <div>
-    <img src="assets/img/train.png">
+    <img src="/assets/img/train.png">
   </div>
 
   <div>
@@ -23,7 +23,7 @@ Our *LanEvil* dataset contains two subsets, i.e., a training set with normal ima
 ### *LanEvil* test set
 <div style="column-count: 2">
   <div>
-    <img src="assets/img/test.png">
+    <img src="/assets/img/test.png">
   </div>
   <div>
     The test part consists of <b>50,292</b> images. For each basic environmental illusion, we provide an original case without any illusion and 2 - 10 perturbed cases, each consisting of 50 to 300 consecutively captured driving images.
