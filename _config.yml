@@ -22,8 +22,8 @@ author: LanEvil team
 navbar-links:
   Home: "index"
   Dataset: "dataset"
+  Experiments: "experiments"
   CaseStudy: "casestudy"
-  RealWorldExp: "realworld"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
