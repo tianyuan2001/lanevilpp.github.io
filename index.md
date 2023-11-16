@@ -37,8 +37,8 @@ For the first time, we study the potential threats caused by environmental illus
     <col align="center" width="50%">
     <col align="center"  width="50%">
     <tr style="text-align:center;">
-        <th>Origin</th>
-        <th>Perturbed</th>
+        <th style="text-align:center;">Origin</th>
+        <th style="text-align:center;">Perturbed</th>
     </tr>
     <tr>
         <td>
