@@ -47,7 +47,7 @@ For the first time, we study the potential threats caused by environmental illus
             </video>
         </td>
         <td>
-            <video controls autoplay loop muted width="50%">
+            <video controls autoplay loop muted width="100%">
                 <source src="./assets/mp4s/Shadow/Rails/StraightAhead_Aside03_1_alt38azm280.mp4" type="video/mp4">
             </video> 
         </td>
