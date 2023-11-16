@@ -6,7 +6,35 @@ subtitle: Detailed explanation of the dataset
 
 ## Dataset organization
 
-Our *LanEvil* dataset contains two subsets, i.e., a training set with normal images and a test set with environmental illusions.
+Our *LanEvil* dataset contains two subsets, i.e., a training set with normal images and a test set with environmental illusions. We provide both training set and test set of *LanEvil* to download. We also provide the ground truth annotated like <a href="https://github.com/TuSimple/tusimple-benchmark/tree/master/doc/lane_detection#label-data-format">TuSimple</a>. We organize the file format of the dataset as follows:
+
+```
+<LANEVIL BASEDIR>
+    ├─RoadDamage
+    │  └─GuardRail
+    │  │   ├─<scene1>
+    │  │   │     ├─000000.png
+    │  │   │     ├─000001.png
+    │  │   │     ├─ ...
+    │  │   │     ├─labels.json
+    │  │   │     ├─labels_test.json
+    │  │   │     ├─labels_train.json
+    │  │   │     └─labels_val.json
+    │  │   ├─<scene2>
+    │  │   │     ├─ ...
+    │  │   └─ ...
+    │  └─RoadCrack
+    │  │   └─ ...
+    │  └─ ...
+    ├─TrafficObstruction
+    │  └─ ...
+    ├─Shadow
+    │  └─ ...
+    └─Reflection
+       └─ ...
+```
+
+
 
 ### *LanEvil* training set
 <div style="column-count: 2">
@@ -54,53 +82,5 @@ Our *LanEvil* dataset contains two subsets, i.e., a training set with normal ima
 </table>
 </div>
 
-## Download
 
-We provide both <a href="/404.html">training set</a> and <a href="/404.html">test set</a> of *LanEvil* to download. We also provide the ground truth annotated like <a href="https://github.com/TuSimple/tusimple-benchmark/tree/master/doc/lane_detection#label-data-format">TuSimple</a>. We organize the file format of the dataset as follows:
-
-```
-<LANEVIL BASEDIR>
-    ├─RoadDamage
-    │  └─GuardRail
-    │  │   ├─<scene1>
-    │  │   │     ├─000000.png
-    │  │   │     ├─000001.png
-    │  │   │     ├─ ...
-    │  │   │     ├─labels.json
-    │  │   │     ├─labels_test.json
-    │  │   │     ├─labels_train.json
-    │  │   │     └─labels_val.json
-    │  │   ├─<scene2>
-    │  │   │     ├─ ...
-    │  │   └─ ...
-    │  └─RoadCrack
-    │  │   └─ ...
-    │  └─RoadRepair
-    │  │   └─ ...
-    │  └─TireMarks
-    │     └─ ...
-    ├─TrafficObstruction
-    │  └─Bicycle
-    │  │   └─ ...
-    │  └─Pedestrian
-    │  │   └─ ...
-    │  └─Vehicle
-    │     └─ ...
-    ├─Shadow
-    │  └─Fence
-    │  │   └─ ...
-    │  └─Rail
-    │  │   └─ ...
-    │  └─StreetLight
-    │  │   └─ ...
-    │  └─Wire
-    │     └─ ...
-    └─Reflection
-       └─StreetLight
-       │   └─ ...
-       └─SunLight
-       │   └─ ...
-       └─Vehicle
-           └─ ...
-```
 
