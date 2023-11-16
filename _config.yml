@@ -20,7 +20,9 @@ author: LanEvil team
 ###############################################
 
 navbar-links:
-  # About Me: "aboutme"
+  Dataset: "dataset"
+  CaseStudy: "casestudy"
+  RealWorldExp: "realworld"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
