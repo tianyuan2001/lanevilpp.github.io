@@ -11,12 +11,12 @@ Our *LanEvil* dataset contains two subsets, i.e., a training set with normal ima
 <!-- html div盒子 -->
 <div style="column-count: 2">
   <div align=left>
-    <img src="./assets/img/histogram_fig.png">
+    <img src="/assets/img/histogram_fig.png">
     </img>
   </div>
 <br/>
   <div align=left>
-    <img src="./assets/img/circle2-1.png">
+    <img src="/assets/img/circle2-1.png">
     </img>
   </div>
 </div>
