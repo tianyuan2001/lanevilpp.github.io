@@ -36,12 +36,10 @@ Our *LanEvil* dataset contains two subsets, i.e., a training set with normal ima
     </tr>
     <tr style="border: none">
         <td style="border: none">
-            <img src="/assets/img/histogram_fig.png" width="100%">
-            </img>
+            <img src="/assets/img/histogram_fig.png" width="100%"/>
         </td>
         <td style="border: none">
-            <img src="/assets/img/circle2-1.png" width="100%">
-            </img>
+            <img src="/assets/img/circle2-1.png" width="100%"/>
         </td>
     </tr>
 </table>
