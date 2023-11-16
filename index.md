@@ -33,10 +33,10 @@ For the first time, we study the potential threats caused by environmental illus
 
 ## Challenges
 <div>
-<table border="0" style="max-width:100%; border-collapse: collapse;">
+<table border="0" style="max-width:100%; border-collapse: collapse; text-align:center;">
     <col align="center" width="50%">
     <col align="center"  width="50%">
-    <tr>
+    <tr style="text-align:center;">
         <th>Origin</th>
         <th>Perturbed</th>
     </tr>
