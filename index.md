@@ -33,24 +33,25 @@ For the first time, we study the potential threats caused by environmental illus
 
 ## Challenges
 
-
-<!-- html div盒子 -->
-<div style="column-count: 2">
-    
-  <div align=left>
-  origin
-  </br>
-    <video controls autoplay loop muted>
-       <source src="./assets/mp4s/Shadow/Rails/StraightAhead_Aside03_1_origin.mp4" type="video/mp4"> 
-  </video>
-  </div>
-  
-   
-  <div align=left>
-  perturbed
-  </br>
-    <video controls autoplay loop muted>
-       <source src="./assets/mp4s/Shadow/Rails/StraightAhead_Aside03_1_alt38azm280.mp4" type="video/mp4"> 
-  </video>
-  </div>
-</div>
+<table >
+    <tr>
+        <th>Origin</th>
+        <th>Perturbed</th>
+    </tr>
+    <tr>
+        <td>
+            <video controls autoplay loop muted>
+                <source src="./assets/mp4s/Shadow/Rails/StraightAhead_Aside03_1_origin.mp4" type="video/mp4"> 
+            </video>
+        </td>
+        <td>
+            <video controls autoplay loop muted>
+                <source src="./assets/mp4s/Shadow/Rails/StraightAhead_Aside03_1_alt38azm280.mp4" type="video/mp4">
+            </video> 
+        </td>
+    </tr>
+    <tr>
+        <td>row 2, cell 1</td>
+        <td>row 2, cell 2</td>
+    </tr>
+</table>
