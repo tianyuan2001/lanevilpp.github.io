@@ -108,7 +108,7 @@ The first three rows represent **Shadow** illusion. Row 4 and 5 represent **Refl
     <tr>
         <td style="border: none">
             <video controls autoplay loop muted width="100%">
-                <source src="./assets/mp4s/RoadInfrastructure/Fence/Turning_White01_1_azm45alt30_origin.mp4" type="video/mp4"> 
+                <source src="./assets/mp4s/RoadInfrastructure/Fence/Turning_White01_1_ClearNoon_origin.mp4" type="video/mp4"> 
             </video>
         </td>
         <td style="border: none">
