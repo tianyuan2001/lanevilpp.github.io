@@ -131,3 +131,9 @@ The first three rows represent **Shadow** illusion. Row 4 and 5 represent **Refl
     </tr>
 </table>
 </div>
+
+<div style="text-align:center;">
+<span id="busuanzi_container_site_pv"> 
+	LaneEvil has been visited <span id="busuanzi_value_site_pv"></span> times.
+</span>
+</div>
