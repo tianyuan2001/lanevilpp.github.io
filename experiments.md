@@ -17,7 +17,7 @@ Table1 shows the average results of 4 illusion categroies. The first 4 LD modele
         <th style="text-align:center; border: none">Table 1. The evaluation results of 4 illusion categories (%).</th>
     </tr>
     <tr style="border: none">
-        <td style="text-align:center;border: none">
+        <td style="background: rgb(255, 255, 255);text-align:center;border: none">
             (a) Accuracy results (%).
             <img src="/assets/img/acc.png">
         </td>
