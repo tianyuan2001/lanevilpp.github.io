@@ -154,11 +154,17 @@ Figure 1 shows the Accuracy drop of various models using ResNet-18 backbone (SCN
 </div>
 <div>
 <table border="0" style="max-width:100%; border-collapse: collapse; text-align:center; background: rgb(255, 255, 255);">
-    <col align="center" width="100%">
-    <tr style="border: none">
-        <th style="background: rgb(255, 255, 255);text-align:center; border: none">
-        Figure 1. Accuracy drop across 5 severity levels(%).
-        </th>
+    <col align="center" width="10%">
+    <col align="center" width="80%">
+    <col align="center" width="10%">
+    <tr style="border: none" width="100%">
+        <td style="background: rgb(255, 255, 255);text-align:center;border: none">
+        </td>
+        <td style="background: rgb(255, 255, 255);text-align:center; border: none;" width="100%">
+        <strong>Figure 1. Accuracy drop across 5 severity levels(%).</strong>
+        </td>
+        <td style="background: rgb(255, 255, 255);text-align:center;border: none">
+        </td>
     </tr>
 </table>
 </div>
