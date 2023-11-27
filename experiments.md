@@ -11,7 +11,7 @@ subtitle: Detailed results of the experiments
 Table1 shows the average results of 4 illusion categroies. The first 4 LD modeles use Resnet-18 while SCNN uses VGG. The bold values represent the minimum in each column, and “Gap” is computed by “Perturbed” minus “Original”.
 
 <div>
-<table border="0" style="max-width:100%; border-collapse: collapse; text-align:center;">
+<table border="0" style="max-width:100%; border-collapse: collapse; text-align:center; background: rgba(0, 0, 0, 0);">
     <col align="center" width="100%">
     <tr style="border: none">
         <th style="text-align:center; border: none">Table 1. The evaluation results of 4 illusion categories (%).</th>
@@ -38,7 +38,7 @@ Here we show the breakdown results of 14 illusion types.
 Table 2 shows the breakdown results in Accuracy and F1-score drop.
 
 <div>
-<table border="0" style="max-width:100%; border-collapse: collapse; text-align:center;">
+<table border="0" style="max-width:100%; border-collapse: collapse; text-align:center; background: rgba(0, 0, 0, 0);">
     <col align="center" width="100%">
     <tr style="border: none">
         <th style="text-align:center; border: none">Table 2. The breakdown results of each illusion type in Accuracy and F1-score drop (%).</th>
@@ -61,7 +61,7 @@ Table 2 shows the breakdown results in Accuracy and F1-score drop.
 Table 3 shows the breakdown Accuracy results under original scenes and perturbed scenes.
 
 <div>
-<table border="0" style="max-width:100%; border-collapse: collapse; text-align:center;">
+<table border="0" style="max-width:100%; border-collapse: collapse; text-align:center; background: rgba(0, 0, 0, 0);">
     <col align="center" width="100%">
     <tr style="border: none">
         <th style="text-align:center; border: none">Table 3. The breakdown Accuracy results of each illusion type under original scenes and perturbed scenes (%).</th>
@@ -84,7 +84,7 @@ Table 3 shows the breakdown Accuracy results under original scenes and perturbed
 Table 4 shows the breakdown F1-score results under original scenes and perturbed scenes.
 
 <div>
-<table border="0" style="max-width:100%; border-collapse: collapse; text-align:center;">
+<table border="0" style="max-width:100%; border-collapse: collapse; text-align:center; background: rgba(0, 0, 0, 0);">
     <col align="center" width="100%">
     <tr style="border: none">
         <th style="text-align:center; border: none">Table 4. The breakdown F1-score results of each illusion type under original scenes and perturbed scenes (%).</th>
@@ -109,7 +109,7 @@ Table 4 shows the breakdown F1-score results under original scenes and perturbed
 Figure 1 shows the Accuracy drop of various models using ResNet-18 backbone (SCNN uses VGG backbone) across different severity levels under 4 illusion categories.
 
 <div>
-<table border="0" style="max-width:100%; border-collapse: collapse; text-align:center;">
+<table border="0" style="max-width:100%; border-collapse: collapse; text-align:center; background: rgba(0, 0, 0, 0);">
     <col align="center" width="33%">
     <col align="center" width="33%">
     <col align="center" width="33%">
@@ -131,7 +131,7 @@ Figure 1 shows the Accuracy drop of various models using ResNet-18 backbone (SCN
 </div>
 
 <div>
-<table border="0" style="max-width:100%; border-collapse: collapse; text-align:center;">
+<table border="0" style="max-width:100%; border-collapse: collapse; text-align:center; background: rgba(0, 0, 0, 0);">
     <col align="center" width="17%">
     <col align="center" width="33%">
     <col align="center" width="33%">
@@ -153,7 +153,7 @@ Figure 1 shows the Accuracy drop of various models using ResNet-18 backbone (SCN
 </table>
 </div>
 <div>
-<table border="0" style="max-width:100%; border-collapse: collapse; text-align:center;">
+<table border="0" style="max-width:100%; border-collapse: collapse; text-align:center; background: rgba(0, 0, 0, 0);">
     <col align="center" width="50%">
     <tr style="border: none">
         <th style="text-align:center; border: none">

@@ -38,7 +38,7 @@ Here we exhibit the video results of lane detecion by <a href="https://github.co
 The first three rows represent **Shadow** illusion. Row 4 and 5 represent **Reflection** illusion. The last two rows represent **RoadDamage** illusion.
 
 <div>
-<table border="0" style="max-width:100%; border-collapse: collapse; text-align:center;">
+<table border="0" style="max-width:100%; border-collapse: collapse; text-align:center; background: rgba(0, 0, 0, 0);">
     <col align="center" width="50%">
     <col align="center"  width="50%">
     <tr>
