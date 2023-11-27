@@ -13,12 +13,14 @@ We conduct software-in-the-loop tests on two commercial autonomous driving syste
   </video>
 </div>
 
+<!--
 ## Apollo Simulation
 <div style="text-align:center;">
   <video width="100%"  controls autoplay loop muted>
        <source src="/assets/video/Apollo.mp4" type="video/mp4"> 
   </video>
 </div>
+-->
 
 ## Real ADS Test
 <div style="text-align:center;">
