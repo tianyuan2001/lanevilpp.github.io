@@ -4,7 +4,7 @@ title: Case Study
 subtitle: Evaluation on Commercial Systems
 ---
 
-We conduct software-in-the-loop tests on two commercial autonomous driving systems including OpenPilot and Apollo. 
+Software-in-the-loop tests on commercial autonomous driving system OpenPilot. 
 
 ## OpenPilot Simulation
 <div style="text-align:center;">
