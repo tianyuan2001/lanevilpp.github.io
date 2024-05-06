@@ -1,4 +1,10 @@
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+    function displayCurrentYear() {
+            var currentYear = new Date().getFullYear();
+            document.getElementById("current-year").textContent = currentYear;
+        }
+    window.onload = displayCurrentYear;
+</script>
 <footer>
   <div class="container-md beautiful-jekyll-footer">
     <div class="row">
@@ -17,7 +23,8 @@
       {{ site.author }}
         &nbsp;&bull;&nbsp;
       {% endif %}
-      {{ site.time | date: '%Y' }}
+      <!-- {{ site.time | date: '%Y' }} -->
+      <span id="current-year"></span>
       &nbsp;&bull;&nbsp;
       <!--<i class="fa-solid fa-eye"></i>-->
       <span id="busuanzi_container_site_pv"> 
