@@ -19,17 +19,18 @@ Table1 shows the average results of 4 illusion categroies. The first 4 LD modele
     <tr style="border: none">
         <td style="background: rgb(255, 255, 255);text-align:center;border: none">
             (a) Accuracy results (%).
-            <img src="/assets/img/acc.png">
+            <img src="./assets/img/acc.png">
         </td>
     </tr>
     <tr style="border: none">
         <td style="background: rgb(255, 255, 255);text-align:center;border: none">
             (b) F1-score results (%).
-            <img src="/assets/img/f1.png">
+            <img src="./assets/img/f1.png">
         </td>
     </tr>
 </table>
 </div>
+
 
 
 ### Breakdown results
