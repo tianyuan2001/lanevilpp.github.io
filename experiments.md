@@ -19,13 +19,13 @@ Table1 shows the average results of 4 illusion categroies. The first 4 LD modele
     <tr style="border: none">
         <td style="background: rgb(255, 255, 255);text-align:center;border: none">
             (a) Accuracy results (%).
-            <img src="./assets/img/acc.png">
+            <img src="/lanevilpp.github.io/assets/img/acc.png">
         </td>
     </tr>
     <tr style="border: none">
         <td style="background: rgb(255, 255, 255);text-align:center;border: none">
             (b) F1-score results (%).
-            <img src="./assets/img/f1.png">
+            <img src="/lanevilpp.github.io/assets/img/f1.png">
         </td>
     </tr>
 </table>
@@ -47,13 +47,13 @@ Table 2 shows the breakdown results in Accuracy and F1-score drop.
     <tr style="border: none">
         <td style="background: rgb(255, 255, 255);text-align:center;border: none">
             (a) Accuracy drop (%).
-            <img src="/assets/img/acc_drop.png">
+            <img src="/lanevilpp.github.io/assets/img/acc_drop.png">
         </td>
     </tr>
     <tr style="border: none">
         <td style="background: rgb(255, 255, 255);text-align:center;border: none">
             (b) F1-score drop (%).
-            <img src="/assets/img/f1_drop.png">
+            <img src="/lanevilpp.github.io/assets/img/f1_drop.png">
         </td>
     </tr>
 </table>
@@ -70,13 +70,13 @@ Table 3 shows the breakdown Accuracy results under original scenes and perturbed
     <tr style="border: none">
         <td style="background: rgb(255, 255, 255);text-align:center;border: none">
             (a) Accuracy under original scenes (%).
-            <img src="/assets/img/acc_original.png">
+            <img src="/lanevilpp.github.io/assets/img/acc_original.png">
         </td>
     </tr>
     <tr style="border: none">
         <td style="background: rgb(255, 255, 255);text-align:center;border: none">
             (b) Accuracy under perturbed scenes (%).
-            <img src="/assets/img/acc_perturbed.png">
+            <img src="/lanevilpp.github.io/assets/img/acc_perturbed.png">
         </td>
     </tr>
 </table>
@@ -93,13 +93,13 @@ Table 4 shows the breakdown F1-score results under original scenes and perturbed
     <tr style="border: none">
         <td style="background: rgb(255, 255, 255);text-align:center;border: none">
             (a) F1-score under original scenes (%).
-            <img src="/assets/img/f1_original.png">
+            <img src="/lanevilpp.github.io/assets/img/f1_original.png">
         </td>
     </tr>
     <tr style="border: none">
         <td style="background: rgb(255, 255, 255);text-align:center;border: none">
             (b) F1-score under perturbed scenes (%).
-            <img src="/assets/img/f1_perturbed.png">
+            <img src="/lanevilpp.github.io/assets/img/f1_perturbed.png">
         </td>
     </tr>
 </table>
@@ -116,15 +116,15 @@ Figure 1 shows the Accuracy drop of various models using ResNet-18 backbone (SCN
     <col align="center" width="33%">
     <tr style="border: none">
         <td style="background: rgb(255, 255, 255);text-align:center;border: none">
-            <img src="/assets/img/ganet-final_exp_res18_s8.png">
+            <img src="/lanevilpp.github.io/assets/img/ganet-final_exp_res18_s8.png">
             (a) GANet
         </td>
         <td style="background: rgb(255, 255, 255);text-align:center;border: none">
-            <img src="/assets/img/ganet-final_exp_res18_s8.png">
+            <img src="/lanevilpp.github.io/assets/img/ganet-final_exp_res18_s8.png">
             (b) BezierLaneNet
         </td>
         <td style="background: rgb(255, 255, 255);text-align:center;border: none">
-            <img src="/assets/img/ganet-final_exp_res18_s8.png">
+            <img src="/lanevilpp.github.io/assets/img/ganet-final_exp_res18_s8.png">
             (c) LaneATT
         </td>
     </tr>
@@ -141,11 +141,11 @@ Figure 1 shows the Accuracy drop of various models using ResNet-18 backbone (SCN
         <td style="background: rgb(255, 255, 255);text-align:center;border: none">
         </td>
         <td style="background: rgb(255, 255, 255);text-align:center;border: none">
-            <img src="/assets/img/SCNN-vgg16.png">
+            <img src="/lanevilpp.github.io/assets/img/SCNN-vgg16.png">
             (d) SCNN.
         </td>
         <td style="background: rgb(255, 255, 255);text-align:center;border: none">
-            <img src="/assets/img/SCNN-vgg16.png">
+            <img src="/lanevilpp.github.io/assets/img/SCNN-vgg16.png">
             (e) UFLD.
         </td>
         <td style="background: rgb(255, 255, 255);text-align:center;border: none">
