@@ -6,10 +6,10 @@ subtitle: Detailed explanation of the dataset
 
 ## Dataset organization
 
-Our *LanEvil* dataset contains two subsets, i.e., a training set with normal images and a test set with environmental illusions. We provide both training set and test set of *LanEvil* to download. We also provide the ground truth annotated like <a href="https://github.com/TuSimple/tusimple-benchmark/tree/master/doc/lane_detection#label-data-format">TuSimple</a>. We organize the file format of the dataset as follows:
+Our *LanEvil++* dataset contains two subsets, i.e., a training set with normal images and a test set with environmental illusions. We provide both training set and test set of *LanEvil++* to download. We also provide the ground truth annotated like <a href="https://github.com/TuSimple/tusimple-benchmark/tree/master/doc/lane_detection#label-data-format">TuSimple</a>. We organize the file format of the dataset as follows:
 
 ```
-<LANEVIL BASEDIR>
+<LANEVIL++ BASEDIR>
     ├─RoadDamage
     │  └─GuardRail
     │  │   ├─<scene1>
@@ -36,7 +36,7 @@ Our *LanEvil* dataset contains two subsets, i.e., a training set with normal ima
 
 
 
-### *LanEvil* training set
+### *LanEvil++* training set
 <div style="column-count: 2">
   <div>
     <img src="/assets/img/train.png">
@@ -48,7 +48,7 @@ Our *LanEvil* dataset contains two subsets, i.e., a training set with normal ima
 </div>
 
 
-### *LanEvil* test set
+### *LanEvil++* test set
 <div style="column-count: 2">
   <div>
     <img src="/assets/img/test.png">

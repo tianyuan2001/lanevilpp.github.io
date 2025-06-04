@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: LanEvil
+title: LanEvil++
 
 # Your name to show in the footer
-author: LanEvil team
+author: LanEvil++ team
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -85,7 +85,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website introduces the LanEvil benchmark.
+rss-description: This website introduces the LanEvil++ benchmark.
 
 ###########################
 # --- General options --- #
