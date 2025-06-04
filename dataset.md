@@ -39,7 +39,7 @@ Our *LanEvil++* dataset contains two subsets, i.e., a training set with normal i
 ### *LanEvil++* training set
 <div style="column-count: 2">
   <div>
-    <img src="./assets/img/train.png">
+    <img src="/assets/img/train.png">
   </div>
 
   <div>
@@ -51,7 +51,7 @@ Our *LanEvil++* dataset contains two subsets, i.e., a training set with normal i
 ### *LanEvil++* test set
 <div style="column-count: 2">
   <div>
-    <img src="./assets/img/test.png">
+    <img src="/assets/img/test.png">
   </div>
   <div>
     The test part consists of <b>50,292</b> images. For each basic environmental illusion, we provide an original case without any illusion and 2 - 10 perturbed cases, each consisting of 50 to 300 consecutively captured driving images.
@@ -73,10 +73,10 @@ Our *LanEvil++* dataset contains two subsets, i.e., a training set with normal i
     </tr>
     <tr style="border: none; background: none">
         <td style="border: none">
-            <img src="./assets/img/histogram_fig.png" width="100%"/>
+            <img src="/assets/img/histogram_fig.png" width="100%"/>
         </td>
         <td style="border: none">
-            <img src="./assets/img/circle2-1.png" width="100%"/>
+            <img src="/assets/img/circle2-1.png" width="100%"/>
         </td>
     </tr>
 </table>
