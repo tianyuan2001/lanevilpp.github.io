@@ -1,19 +1,23 @@
 ---
 layout: home
-title: LanEvil
-subtitle: Benchmarking the Robustness of Lane Detection to Environmental Illusions
+title: LanEvil++
+subtitle: Benchmarking the Robustness of Autonomous Driving to Environmental Illusions: A Lane Perception Perspective
 ---
 
 ## Overview  
 
-For the first time, we study the potential threats caused by environmental illusions to LD(lane detection) and establishes the first comprehensive benchmark *LaneEvil* for evaluating the robustness of LD against the natural corruption. We systematically design 14 common but critical environmental illusion types (e.g., shadow, reflection) by rigorously analyzing the influence factors in LD tasks; according to the real-world environment, we then establish 94 realistic and editable 3D cases using the commonly used CARLA simulator, yielding the dataset with 90,292 sampled dataset images. We conducted large-scale experiments and benchmarked the robustness of widely used LD methods on *LaneEvil*, where we observed strong performance degeneration (-5.37% Accuracy and -10.70% F1-Score on average) underscoring the severe safety threats. In addition, we also test commercial auto-driving systems OpenPilot and Apollo via collaborative simulation, where our perturbed cases could cause incorrect decisions resulting in traffic accidents. We hope our works can contribute to advancing more robust auto-driving systems in the future.
+Environmental illusions (*e.g.*, shadows, reflections, and tire marks) are naturally existing yet overlooked phenomena in real-world driving environments. They can disturb visual perception, leading to misinterpretation of the scene and posing serious safety risks to autonomous driving (AD) systems. However, existing researches largely overlook these phenomena, leaving a critical gap.
+To address this issue, we study AD robustness through the lane perception perspective, a fundamental task supporting core functions like cruise control and lane centering. We focus on two representative models: conventional lane detection (LD) and vision-language model-based systems (ADVLMs).
+In this work, we introduce the first benchmark, *LanEvil++*, for evaluating the robustness of lane perception under environmental illusions. *LanEvil++* encompasses 14 types of illusions and leverages the CARLA simulator to generate 94 high-fidelity, fully controllable 3D scenes, yielding a dataset of 90,292 annotated images, 1,596 video clips, and 41,855 visual question answering pairs.
+Extensive evaluations demonstrate that environmental illusions substantially degrade the performance of state-of-the-art LD methods. On average, LD models experience a 5.37% drop in Accuracy and a 10.70% decline in F1-score, while ADVLMs show a 1.89% reduction in GPT-score and a 0.66% drop in Language-score. Among all illusions, shadows emerge as the most disruptive factor, reducing accuracy by up to 7.39%. Furthermore, closed-loop simulations using OpenPilot and LMDrive reveal that these illusions can lead to incorrect driving decisions, underscoring their real-world implications. Complementary real-world case studies highlight safety-critical failures in actual traffic scenes. 
+To enhance robustness, we propose the Multimodal Illusion Defense Approach (MIDA), which uses hard examples to improve illusion resistance. MIDA achieves substantial gains under challenging conditions, boosting robustness by 4.23% on LD models and 3.82% on ADVLMs. We hope this work brings greater attention to the threats posed by environmental illusions and motivates the development of more robust AD systems.
 
 <!--<object data="/assets/img/framework_v2.pdf" type="application/pdf" > 
     <embed src="/assets/img/framework_v2.pdf"> 
     </embed> 
 </object> -->
 
-![](/assets/img/framework.png)
+![](/assets/img/framework_gai.png)
 
 ## Dataset Examples
 
