@@ -73,10 +73,10 @@ Our *LanEvil++* dataset contains two subsets, i.e., a training set with normal i
     </tr>
     <tr style="border: none; background: none">
         <td style="border: none">
-            <img src="/lanevilpp.github.io/assets/img/histogram_fig.png" width="100%"/>
+            <img src="/lanevilpp.github.io/assets/img/histogram_fig_1.png" width="100%"/>
         </td>
         <td style="border: none">
-            <img src="/lanevilpp.github.io/assets/img/circle2-1.png" width="100%"/>
+            <img src="/lanevilpp.github.io/assets/img/circle2_1.png" width="100%"/>
         </td>
     </tr>
 </table>
@@ -98,7 +98,7 @@ Our *LanEvil++* dataset contains two subsets, i.e., a training set with normal i
             <img src="/lanevilpp.github.io/assets/img/histogram_fig_2.png" width="100%"/>
         </td>
         <td style="border: none">
-            <img src="/lanevilpp.github.io/assets/img/circle2-2.png" width="100%"/>
+            <img src="/lanevilpp.github.io/assets/img/circle2_2.png" width="100%"/>
         </td>
     </tr>
 </table>
