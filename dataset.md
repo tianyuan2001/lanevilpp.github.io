@@ -66,7 +66,7 @@ Our *LanEvil++* dataset contains two subsets, i.e., a training set with normal i
     <col align="center"  width="50%" style="border: none">
     <tr style="border: none; background: none">
         <th style="text-align:center; border: none">
-        The number of original and perturbed cases.</th>
+        The number of original and perturbed cases under four categories.</th>
         <th style="text-align:center; border: none">
         The case distribution of four illusion categories.
         </th>
@@ -82,5 +82,25 @@ Our *LanEvil++* dataset contains two subsets, i.e., a training set with normal i
 </table>
 </div>
 
-
+<div>
+<table border="0" style="max-width:100%; border-collapse: collapse; text-align:center; border: none">
+    <col align="center" width="50%" style="border: none">
+    <col align="center"  width="50%" style="border: none">
+    <tr style="border: none; background: none">
+        <th style="text-align:center; border: none">
+        The number of original and perturbed clips under four categories.</th>
+        <th style="text-align:center; border: none">
+        The QA pair distribution of four illusion categories.
+        </th>
+    </tr>
+    <tr style="border: none; background: none">
+        <td style="border: none">
+            <img src="/lanevilpp.github.io/assets/img/histogram_fig_2.png" width="100%"/>
+        </td>
+        <td style="border: none">
+            <img src="/lanevilpp.github.io/assets/img/circle2-2.png" width="100%"/>
+        </td>
+    </tr>
+</table>
+</div>
 
