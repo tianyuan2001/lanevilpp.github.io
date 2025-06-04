@@ -1,6 +1,6 @@
 ---
 layout: home
-title: LanEvil++
+title: LanEvil
 subtitle: Benchmarking the Robustness of Autonomous Driving to Environmental Illusions: A Lane Perception Perspective
 ---
 
